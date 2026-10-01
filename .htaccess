@@ -1,0 +1,6 @@
+<Files "config.php">
+    Require all denied
+</Files>
+<Files "*.sql">
+    Require all denied
+</Files>
